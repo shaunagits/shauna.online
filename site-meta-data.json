@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Shauna Arnold | Developer & Designer",
+  "siteUrl": "https://shauna.netlify.app",
+  "description": "Freelance developer, designer and project manager currently based in Hawaii.",
   "home": {
     "title": "Hi! I'm Shauna",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "description": "I am a freelance designer and developer focusing on React, PHP and Rails. I have a background in project management overseeing large brand development and marketing projects with clients such as Nike, Apple, Nordstrom, the MLB and the NFL, among many others. Contact me today to see how I might be able to bring my expertise to your business."
   }
 }
