@@ -20,7 +20,7 @@ const ContactPage = ({
           <p>Let me help you kick start your next project &rarr;</p>
         </div>
         <div>
-          <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post" netlify-honeypot="bot-field" data-netlify="true" name="contact">
+          <form className="form-container" method="post" netlify-honeypot="bot-field" data-netlify="true" name="contact">
             <input type="hidden" name="bot-field" />
             <div>
               <label htmlFor="w3lName">Name</label>
