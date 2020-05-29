@@ -15,12 +15,12 @@ const ContactPage = ({
         <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">
-        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
+        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/danielle-macinnes-IuLgi9PWETU-unsplash.jpg')`, marginBottom: 0}}>
           <h1 className="post-title">Get in Touch</h1>
           <p>Let me help you kick start your next project &rarr;</p>
         </div>
         <div>
-          <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">
+          <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post" data-netlify="true" name="contact">
             <div>
               <label htmlFor="w3lName">Name</label>
               <input type="text" name="w3lName" id="w3lName"/>
